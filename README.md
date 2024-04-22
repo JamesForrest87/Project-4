@@ -1,4 +1,4 @@
-## Project-4
+# Project-4
 # Introduction
 
 The analysis aims to delve into the interplay between sperm quality, fertility rates, and demographic factors to understand their significance in global population dynamics. Recognizing the importance of comprehending trends on a country level and across genders is pivotal in shaping effective population policies.
@@ -12,14 +12,14 @@ SQL
 Tableau (Graphs)
 Google Colab
 
-## Objectives
+# Objectives
 
 Analyze historical trends in female fertility ages globally and regionally.
 Investigate factors influencing male sperm quality through demographic variables.
 Assess the implications of these findings on population growth.
 
-## Methodology
-# Data Collection
+# Methodology
+## Data Collection
 CSV files from Kaggle and worldbank.org
 Male fertility data source: Kaggle Male Fertility Patients Survey Dataset
 Collect socio-economic factors influencing sperm quality including Religion, Ethnicity, Marital Status, Number of Children, Marriage Period, Education, Employment Status, Working Period, Income, and Sperm quality.
