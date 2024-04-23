@@ -9,8 +9,9 @@ Python (ETL) & ScikitLearn
 Pandas
 MatPlotLib
 SQL
+Google Colab / Google Drive
 Tableau (Graphs) https://public.tableau.com/shared/FX89N96CZ?:display_count=n&:origin=viz_share_link
-Google Colab
+
 
 # Objectives
 
@@ -34,3 +35,4 @@ Comprehensive analysis of historical and current birthrate trends.
 Utilization of regression analysis and machine learning to predict future births per 1,000 people.
 Insights into the implications of fertility age trends on population dynamics and policy formulation.
 Data collection and preprocessing covering the period from 1950 to the 2020s.
+
